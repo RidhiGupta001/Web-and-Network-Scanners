@@ -4,6 +4,17 @@
 ---
 
 ## Introduction
+Modern systems are constantly exposed to security risks — from misconfigured servers and outdated software to exploitable web vulnerabilities like SQL Injection and Cross-Site Scripting (XSS). 
+
+The challenge is not just that these vulnerabilities exist, but that they often go **undetected** until exploited. Many systems lack continuous visibility into:
+- Open network surfaces (ports, services, versions)
+- Weak or outdated configurations
+- Common web vulnerabilities that can lead to full system compromise
+
+Traditional security tools are often:
+- Complex to configure  
+- Heavyweight for quick analysis  
+- Not easily customizable for specific use cases  
 
 This document provides a technical walkthrough of two Python security tools used for network reconnaissance and web vulnerability assessment. 
 
